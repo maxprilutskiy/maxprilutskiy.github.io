@@ -1,9 +1,9 @@
 # Site settings
 title: Max Prilutskiy | Blog # site title
 description: >- # site description
-Max Prilutskiy is an software engineer, manager, and entrepreneur.
-He loves building things.
-Max is writing about tech, startups, and entrepreneurship.
+  Max Prilutskiy is a software engineer, manager, and entrepreneur.
+  He loves building and growing software products.
+  Max is writing about tech, startups, and entrepreneurship.
 lang: en-US # default lang
 timezone: Europe/Minsk # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
