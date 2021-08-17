@@ -11,7 +11,7 @@ Alright, so you didn't listen. **Good.**
 If you're reading this it means only one thing: I decided I want to run a blog and then forgot about it.
 
 
-If you've been waiting for me to post for a while already - checkout my
+If you've been waiting for me to post for a while already - check out my
 [GitHub](https://github.com/{{ site.author.github }}){:target="_blank"},
 [Twitter](https://twitter.com/{{ site.author.twitter }}){:target="_blank"},
 or [LinkedIn](https://linkedin.com/in/{{ site.author.github }}){:target="_blank"},
