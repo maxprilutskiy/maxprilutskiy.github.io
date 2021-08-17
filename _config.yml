@@ -1,32 +1,38 @@
 # Site settings
-title: Klise Theme # site title
+title: Max Prilutskiy | Blog # site title
 description: >- # site description
-  He's writing in Bahasa about web technology and experience as a journal 
-  for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
+  Max Prilutskiy is an experienced engineer, manager and entrepreneur. 
+  He's been into tech since the age of 9, and I loves building things. 
+  Max is writing about tech, entrepreneurship and economics. 
 lang: en-US # default lang
-timezone: Asia/Jakarta # set your timezone
+timezone: Europe/Minsk # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
-mode: dark # default theme "dark" | "light"
+repo: # site repo [optional]
+mode: light # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Jekyll Klisé # author name
+  name: Max Prilutskiy # author name
   bio: >- # tell to the world
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
-  username: username # general username
-  github: github_username # github username
-  twitter: twitter_username # twitter username
-  facebook: facebook_username # facebook username
-  email: your-email@email.com # email adress
+    Engineer, manager, and entrepreneur.
+    I love building things.
+    Check out what I'm currently doing: <br />
+    <a href="//github.com/maxprilutskiy" target="_blank">GitHub</a>,
+    <a href="//twitter.com/maxprilutskiy" target="_blank">Twitter</a>,
+    <a href="//linkedin.com/in/maxprilutskiy" target="_blank">LinkedIn</a>.
+  username: maxprilutskiy # general username
+  github: maxprilutskiy # github username
+  twitter: maxprilutskiy # twitter username
+  linkedin: maxprilutskiy # linkedin username
+  facebook: maxprilutskiy # facebook username
+  email: maks.prilutskiy@gmail.com # email adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: "https://klise.now.sh" #
+url: "https://maxprilutskiy.com" #
 baseurl:
 permalink: /:title/
-google_analytics: # leave it blank if not wish
+google_analytics: UA-192959115-1 # leave it blank if not wish
 fb_appid:
 
 # Collection setting
