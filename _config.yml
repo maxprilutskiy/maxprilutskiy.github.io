@@ -2,8 +2,8 @@
 title: Max Prilutskiy | Blog # site title
 description: >- # site description
   Max Prilutskiy is an experienced engineer, manager and entrepreneur. 
-  He's been into tech since the age of 9, and I loves building things. 
-  Max is writing about tech, entrepreneurship and economics. 
+  He's been into tech since the age of 9, and loves building things. 
+  Max is writing about tech, startups, and entrepreneurship. 
 lang: en-US # default lang
 timezone: Europe/Minsk # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -15,6 +15,7 @@ author:
   name: Max Prilutskiy # author name
   bio: >- # tell to the world
     Engineer, manager, and entrepreneur.
+    <br />
     I love building things.
     Check out what I'm currently doing: <br />
     <a href="//github.com/maxprilutskiy" target="_blank">GitHub</a>,
@@ -25,7 +26,6 @@ author:
   twitter: maxprilutskiy # twitter username
   linkedin: maxprilutskiy # linkedin username
   facebook: maxprilutskiy # facebook username
-  email: maks.prilutskiy@gmail.com # email adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
