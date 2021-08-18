@@ -2,7 +2,7 @@
 layout: post
 title:  Don't read this
 date:   2021-08-17 06:00:00 +0300
-image: /post/dont-read-this/pencils.jpg
+image: /assets/posts/dont-read-this/pencils.jpg
 categories:
 ---
 
