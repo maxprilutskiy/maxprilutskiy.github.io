@@ -31,7 +31,7 @@ author:
 # URL settings
 url: "https://maxprilutskiy.com" #
 baseurl:
-permalink: /:title/
+permalink: /post/:title/
 google_analytics: UA-192959115-1 # leave it blank if not wish
 fb_appid:
 
