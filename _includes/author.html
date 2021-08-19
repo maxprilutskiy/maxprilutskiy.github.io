@@ -4,6 +4,10 @@
     src="{{ site.author.avatar }}"
     alt="{{ site.author.username }}"
   />
-  <h2 class="author-name">{{ site.author.name }}</h2>
-  <p class="author-bio">{{ site.author.bio }}</p>
+  <div class="author-info">
+    <h2 class="author-name">{{ site.author.name }}</h2>
+    <p class="author-bio">{{ site.author.bio }}</p>
+    <br />
+    {% include follow-me.html %}
+  </div>
 </div>

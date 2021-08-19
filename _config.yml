@@ -14,18 +14,13 @@ mode: light # default theme "dark" | "light"
 author:
   name: Max Prilutskiy # author name
   bio: >- # tell to the world
-    Engineer, manager, and entrepreneur.
-    <br />
-    I love building things.
-    Check out what I'm currently doing: <br />
-    <a href="//github.com/maxprilutskiy" target="_blank">GitHub</a>,
-    <a href="//twitter.com/maxprilutskiy" target="_blank">Twitter</a>,
-    <a href="//linkedin.com/in/maxprilutskiy" target="_blank">LinkedIn</a>.
+    Engineer, manager, and entrepreneur. I love building things.
   username: maxprilutskiy # general username
   github: maxprilutskiy # github username
   twitter: maxprilutskiy # twitter username
   linkedin: maxprilutskiy # linkedin username
   facebook: maxprilutskiy # facebook username
+  youtube: UC5inBSTzYc0IYzKZGeGXO2w # youtube channel
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
